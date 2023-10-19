@@ -9,3 +9,4 @@ def prob_3():
     print("$12")
   elif age >= 60:
     print("10")
+    
